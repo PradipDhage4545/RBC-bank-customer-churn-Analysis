@@ -1,8 +1,10 @@
 # RBC-bank-customer-churn-Analysis
-I made customer churn analysis on Royal Bank of Canada data and made Reports and Dashboard using Power bi 
+I made customer churn analysis on Royal Bank of Canada data and made Reports and Dashboard using Power bi
+
+
+![Report 1](https://user-images.githubusercontent.com/115714083/206841511-16db0e99-56bc-4d5e-844b-b95acdf7273e.png)
 
 
 
-![RBC Customer Churn Analysis](https://user-images.githubusercontent.com/115714083/206841191-e311cf33-bc85-441b-b42f-6a2c0e1b9a9e.jpg)
 
-![RBC Customer Churn Analysis (1)](https://user-images.githubusercontent.com/115714083/206841197-3a4b33e9-cc7e-4912-848c-9cc96379e854.jpg)
+![Report 2](https://user-images.githubusercontent.com/115714083/206841507-d35a32fd-d0eb-4b33-9fc7-645dbc3603f9.png)
