@@ -5,8 +5,10 @@ I made customer churn analysis on Royal Bank of Canada data and made Reports and
 
 
 
-
+Report Page 1
 
 ![rbc churn1](https://user-images.githubusercontent.com/115714083/206884945-76ba1021-6d82-4fcf-b2f3-f0a298f4eb72.png)
+
+Report Page 2
 
 ![rbc churn 2](https://user-images.githubusercontent.com/115714083/206884952-a2dbe3cd-adcb-4d4f-b5f6-90476306131a.png)
